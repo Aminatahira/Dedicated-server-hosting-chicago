@@ -57,6 +57,13 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        brand: {
+          coral: "#FF6F61",
+          salmon: "#FFA07A",
+          turquoise: "#40E0D0",
+          cream: "#FFF8E1",
+          darkgray: "#2E2E2E",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
