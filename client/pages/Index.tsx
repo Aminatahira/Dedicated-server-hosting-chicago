@@ -89,7 +89,10 @@ export default function Index() {
               size="lg"
               className="bg-primary hover:bg-primary/90 text-primary-foreground"
             >
-              <a href="https://arzhost.com/vps/" className="flex items-center">
+              <a
+                href="https://arzhost.com/dedicated-servers/"
+                className="flex items-center"
+              >
                 View Plans & Pricing
               </a>
             </Button>
@@ -439,7 +442,9 @@ export default function Index() {
                   Best for agencies, game servers, and media streaming.
                 </p>
                 <Button className="w-full bg-primary hover:bg-primary/90">
-                  <a href="https://arzhost.com/vps/">Choose Plan</a>
+                  <a href="https://arzhost.com/dedicated-servers/">
+                    Choose Plan
+                  </a>
                 </Button>
               </CardContent>
             </Card>
@@ -480,7 +485,9 @@ export default function Index() {
                   platforms.
                 </p>
                 <Button className="w-full bg-primary hover:bg-primary/90">
-                  <a href="https://arzhost.com/vps/">Choose Plan</a>
+                  <a href="https://arzhost.com/dedicated-servers/">
+                    Choose Plan
+                  </a>
                 </Button>
               </CardContent>
             </Card>
@@ -523,7 +530,9 @@ export default function Index() {
                   dynamic websites.
                 </p>
                 <Button className="w-full bg-primary hover:bg-primary/90">
-                  <a href="https://arzhost.com/vps/">Choose Plan</a>
+                  <a href="https://arzhost.com/dedicated-servers/">
+                    Choose Plan
+                  </a>
                 </Button>
               </CardContent>
             </Card>
@@ -564,7 +573,9 @@ export default function Index() {
                   large corporate websites.
                 </p>
                 <Button className="w-full bg-primary hover:bg-primary/90">
-                  <a href="https://arzhost.com/vps/">Choose Plan</a>
+                  <a href="https://arzhost.com/dedicated-servers/">
+                    Choose Plan
+                  </a>
                 </Button>
               </CardContent>
             </Card>
@@ -800,7 +811,9 @@ export default function Index() {
               size="lg"
               className="bg-primary hover:bg-primary/90 text-primary-foreground text-lg px-8 py-4"
             >
-              <a href="https://arzhost.com/vps/">Order Now from ARZ Host</a>
+              <a href="https://arzhost.com/dedicated-servers/">
+                Order Now from ARZ Host
+              </a>
             </Button>
             <Button
               size="lg"
