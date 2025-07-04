@@ -399,7 +399,9 @@ export default function Index() {
                   environments.
                 </p>
                 <Button className="w-full bg-primary hover:bg-primary/90">
-                  <a href="https://arzhost.com/vps/">Choose Plan</a>
+                  <a href="https://arzhost.com/dedicated-servers/">
+                    Choose Plan
+                  </a>
                 </Button>
               </CardContent>
             </Card>
